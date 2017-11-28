@@ -1,0 +1,6 @@
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\LinkedLists\LinkedLists\bin\Debug\LinkedLists.exe.config
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\LinkedLists\LinkedLists\bin\Debug\LinkedLists.exe
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\LinkedLists\LinkedLists\bin\Debug\LinkedLists.pdb
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\LinkedLists\LinkedLists\obj\Debug\LinkedLists.csprojResolveAssemblyReference.cache
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\LinkedLists\LinkedLists\obj\Debug\LinkedLists.exe
+c:\users\evaldas-pc\documents\visual studio 2017\Projects\LinkedLists\LinkedLists\obj\Debug\LinkedLists.pdb
